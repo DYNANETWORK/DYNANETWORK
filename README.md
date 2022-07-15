@@ -48,11 +48,11 @@ Here are some ideas to get you started:
 
 
 
-         -->乛【BLACK MAMBA】⸙
+         --->乛【BLACK MAMBA】⸙<---
 
-        #Don't Break The Heart Of The Hacker,
+        Don't Break The Heart Of The Hacker,
         Bcoz U Don't Know Wt Will Happn Tn,
-       I am larning Python/PHP Language.
+       I am learning Python/PHP Language.
 OP
 
 
