@@ -114,9 +114,9 @@ OP
                                                               
        ┣🌷        Country✞ : "IN"
                                                               
-       ┣🌷         PYTHONCODING   : "4YEARS"
+       ┣🌷        PYTHONCODING   : "4YEARS"
                                                               
-       ┣🌷         Coding    : "PHP & JAVA & PYTHON & HACKING"
+       ┣🌷        Coding    : "PHP & JAVA & PYTHON & HACKING"
                                                   
        ┗━━━━━♠️BLACK MAMBA♠️ ━━━━━━━━┛
                                                               
