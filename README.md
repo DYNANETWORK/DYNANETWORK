@@ -151,7 +151,7 @@ OP
                                                                        
  BLACKMAMBA
   ━━━━━━━━━━━━━━━━━━━━
-{Telegram ID} = [MAMBA](t.me/ITS_BLACKMAMBA)
+BLACKMAMBA = [MAMBA](t.me/YOURS_BLACKMAMBA_BLACKMAMBA)
 
 『【BLACKMAMBA】』
 ┏━━━━━━━━━━━━━━━━━━━ ━━━━━━━━━━━━━━━━━━━━
